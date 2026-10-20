@@ -21,5 +21,5 @@
 - R09
 - R10
 - G2
-- R17 *Se me hizo muy complicado con la presentacion profe ojala me pueda explicar
+- R17
 - R19
